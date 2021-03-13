@@ -71,7 +71,7 @@ awful.spawn.with_shell(
 -- {{{ Variable definitions
 
 local themes = {
-    "powerarrow-dark", -- 1
+    "darktheme-1", -- 1
 
 }
 
