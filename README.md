@@ -1,3 +1,7 @@
 # dotfiles
 
-config files yayyy
+config files and wallpapers
+
+dependencies: 
+
+rofi, awesome(or i3), xfce4-terminal, glava, neofetch
