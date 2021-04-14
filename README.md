@@ -1,19 +1,18 @@
-# dotfiles
+# config files and wallpapers
 
-config files and wallpapers
+## dependencies: 
 
-dependencies: 
+#### [rofi](https://github.com/davatorium/rofi)
+#### [awesome](https://github.com/awesomeWM/awesome)
+#### [xfce4-terminal](https://github.com/xfce-mirror/xfce4-terminal)
+#### [picom](https://github.com/yshui/picom)
+#### [nitrogen](https://github.com/l3ib/nitrogen)
+#### [lain](https://github.com/lcpz/lain)
+#### [awesome-freedesktop](https://github.com/lcpz/awesome-freedesktop)
+#### [wibox](https://github.com/awesomeWM/awesome/blob/master/lib/awful/wibox.lua)
+#### [terminus regular font](https://github.com/Tecate/bitmap-fonts)
 
-## rofi
-## awesome(or i3)
-## xfce4-terminal
-## glava
-## neofetch
-## compton
-## nitrogen
-## lain
-## awesome-freedesktop
-## fetchcord
-## wibox
-## gears
-## terminus regular font
+
+## optional:
+#### [glava](https://github.com/jarcode-foss/glava)
+#### [neofetch](https://github.com/dylanaraps/neofetch)
